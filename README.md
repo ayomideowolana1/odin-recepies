@@ -1,2 +1,2 @@
 # odin-recepies
-the-odin-project assignment
+This is a web based project I am working on using skills I have gained from my short time learning online at the odin project. The skills include HTML and Git. I look forward to learning so much more and I'm greatful to everyone that made the odin project possible. thank you :)
