@@ -1,0 +1,30 @@
+html{
+    background-color: whitesmoke;
+}
+
+.home-button a{
+    color:#424242;
+}
+
+.page-header-main{
+    padding: 10px;
+    text-align: center;
+    background-color: #424242;
+    color: whitesmoke;
+}
+
+.disp-img{
+    width:100%;
+    max-width:600px;
+}
+
+.page-header-1,h3{
+    color: #424242;
+}
+
+p,li{
+    color: #222121;
+    line-height: 1.5;
+    max-width: 600px;
+    padding: 10px;
+}
